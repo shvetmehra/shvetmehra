@@ -83,12 +83,9 @@ Agile Project Management: ████████░░ 88%
 - Mentoring next-generation HR technologists
 - Contributing to **AI in HR** research and thought leadership
 
----
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shvet-mehra-058b116/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:shvetmehra@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/shvetmehra)
+
 ---
 
 **"Bridging human capital strategy with cutting-edge technology to drive organizational excellence."**
